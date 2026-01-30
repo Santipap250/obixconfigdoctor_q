@@ -1,0 +1,9 @@
+[user]
+	name = Your Name
+	email = your@email
+[safe]
+	directory = /storage/emulated/0/Download/obixconfigdoctor-main
+	directory = /storage/emulated/0/Download/obixconfigdoctor-main
+	directory = /storage/emulated/0/Download/obixconfigdoctor-main
+[init]
+	defaultBranch = main
