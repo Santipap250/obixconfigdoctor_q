@@ -363,3 +363,12 @@ git remote -v
 lcd ~/storage/downloads/obixconfigdoctor-main
 python --version
 python app.py
+mkdir -p templates/partials
+mkdir -p static/css
+mkdir -p static/js
+pkg update && pkg upgrade
+pkg install git openssh -y
+git --version
+git config --global user.name "Tui"
+git config --global user.email "your_email@gmail.com"
+git@github.com:Santipap250/configdoctor-.git
